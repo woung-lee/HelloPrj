@@ -5,5 +5,6 @@ public class Program {
 		int x = 3;
 		int y =4;
 		int total = x+y;
+		System.out.printf("total is %d",total);
 	}
 }
