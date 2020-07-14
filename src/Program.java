@@ -8,5 +8,6 @@ public class Program {
 		System.out.printf("total is %d",total);
 		System.out.printf("avg is %f",total/3.0f);
 		//line1
+		//line2
 	}
 }
